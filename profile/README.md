@@ -2,4 +2,4 @@
 
 # Mantenimiento de Software (11/12)
 
-Espacio de trabajo para prácticas y ejercicios de Mantenimiento de Software
+Espacio de trabajo para prácticas y ejercicios
